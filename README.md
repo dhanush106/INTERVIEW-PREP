@@ -11,9 +11,9 @@
 | 03 | ⚙️ Operating Systems (OS) | 📖 [Read Handbook](./TCS_Prime_OS_Interview_Handbook.md) | 🟢 Completed |
 | 04 | 🌐 Computer Networks (CN) | --- | 🔜 Coming Soon |
 | 05 | 🎨 Frontend Development | --- | 🔜 Coming Soon |
-| 06 | 📝 SQL Queries | --- | 🔜 Coming Soon |
+| 06 | 📝 SQL Queries | 📖 [Read Handbook](./TCS_Prime_SQL_Interview_Handbook.md) | 🟢 Completed |
 | 07 | 🚀 Backend Development | --- | 🔜 Coming Soon |
-| 08 | 🍃 MongoDB | --- | 🔜 Coming Soon |
+| 08 | 🍃 MongoDB | 📖 [Read Handbook](./TCS_Prime_MongoDB_Interview_Handbook.md) | 🟢 Completed |
 | 09 | 🤖 Generative AI Basics | --- | 🔜 Coming Soon |
 
 </div>
